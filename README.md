@@ -1,4 +1,4 @@
-# ;h
+# Delicious Recipes Front
 
 > A Vue.js project focused in learning more about it
 
